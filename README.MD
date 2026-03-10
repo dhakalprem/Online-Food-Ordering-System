@@ -28,7 +28,7 @@ Track order status
 
 Example order:
 
-Customer: Rahul
+Customer: Suresh
 Food Item: Pizza
 Quantity: 2
 Price: ₹300
@@ -51,8 +51,8 @@ Address
 
 Example:
 
-Name: Amit Kumar
-Email: amit@gmail.com
+Name: Rohan 
+Email: Rohan@gmail.com
 Phone: 9876543210
 
 2. Food Menu Management
